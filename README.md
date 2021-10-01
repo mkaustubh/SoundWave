@@ -1,5 +1,5 @@
 # SoundWave
-A Gym Website page as a front-end project.
+A Music Website page as a front-end project.
 - [fullWebPage](https://mkaustubh.github.io/GymWebsite) - Final result of the project
 - [Design](https://github.com/mkaustubh/GymWebsite/blob/gh-pages/copyright.jpg) - Website Idea
 
