@@ -1,7 +1,6 @@
 # SoundWave
 A Music Website page as a front-end project.
-- [fullWebPage](https://mkaustubh.github.io/GymWebsite) - Final result of the project
-- [Design](https://github.com/mkaustubh/GymWebsite/blob/gh-pages/copyright.jpg) - Website Idea
+- [fullWebPage](https://mkaustubh.github.io/soundwave/) - Final result of the project
 
 ##  Built With
 *  HTML
@@ -10,4 +9,4 @@ A Music Website page as a front-end project.
 ## Project-Setup Instructions.
 1. git clone using the following links.
 
-   link: mkaustubh.github.io/soundwave/
+   link: mkaustubh.github.io/soundwave/.git
