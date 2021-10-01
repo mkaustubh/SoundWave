@@ -10,4 +10,4 @@ A Gym Website page as a front-end project.
 ## Project-Setup Instructions.
 1. git clone using the following links.
 
-   link: https://github.com/mkaustubh/GymWebsite.git
+   link: mkaustubh.github.io/soundwave/
